@@ -1,2 +1,2 @@
-# mqttbroker
-broker for mqtt
+# mqtt template
+contains broker, publisher, subscriber
